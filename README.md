@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="/images/Hi.gif" width="29px">
+  <img src="/images/Hi.gif" width="50px" height="50px">
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=40&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&height=200&lines=Hello!+I'm+Akash;Welcome+to+my+profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=40&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&height=100&lines=Hello!+I'm+Akash;Welcome+to+my+profile" alt="Typing SVG" />
 </div>
 
 ### About Me 🚀
