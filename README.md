@@ -1,4 +1,18 @@
-## Hello,<img src="/images/Hi.gif" width="29px"> I'm <a href="#" target="_blank">Akash</a> !
+<!-- ![header](images/github%20banner.jpg) -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
+
+<div style="position:relative;text-align:center;">
+  <img src="images/Banner_img.jpg" alt="alt text" style="display:block;margin:auto;">
+  <div style="position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);">
+    <h2 style="font-size:60px;font-family: 'Satisfy', cursive;color:white;">Akash Patra</h2>
+    <p style="font-family: 'Roboto Mono', monospace;font-size:20px">Aspiring Software Developer</p>
+  </div>
+</div>
+
+## Hello,<img src="/images/Hi.gif" width="29px"> Welcome to my Github profile !
 
 ### About Me 🚀
 
