@@ -1,8 +1,9 @@
-<div style="background:url('images/Banner_img.jpg');height:280px;width:934px;text-align:center;justify:center;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=40&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&height=200&lines=Akash+Patra;Aspiring+Software+Developer" alt="Typing SVG" />
+<div align="center">
+  <img src="/images/Hi.gif" width="29px">
 </div>
-
-## Hello,<img src="/images/Hi.gif" width="29px"> I am **Akash** and welcome to my Github profile !
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=40&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&height=200&lines=Hello!+I'm+Akash;Welcome+to+my+profile" alt="Typing SVG" />
+</div>
 
 ### About Me 🚀
 
