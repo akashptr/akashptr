@@ -1,4 +1,4 @@
-## Hello,<img src="/images/Hi.gif" width="29px"> I'm <a href="#" target="_blank">Akash</a>!
+## Hello,<img src="/images/Hi.gif" width="29px"> I'm <a href="#" target="_blank">Akash</a> !
 
 ### About Me 🚀
 
