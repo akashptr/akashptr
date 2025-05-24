@@ -7,22 +7,22 @@
 
 ### About Me 🚀
 
-🌱 I’m an enthusiastic and ambitious Full stack developer with a masters degree in Computer Application. </br>
-👨‍💻 I am passionate about Web Dev & I enjoy learning new things. </br>
+Hi there! I'm a working professional and passionate **Software Engineer** with hands-on experience in building and maintaining a variety of applications — from web platforms to distributed systems.
+
+My recent work includes projects involving **microservices**, **REST APIs**, **React-based user interfaces**, and **containerized deployments using Docker**. I’m also exploring the potential of **Generative AI** and enjoy experimenting with emerging tools and technologies.
 
 <div>
 <details>
   <summary>🧑 More about me</summary>
 
--   🔭 I’m currently on a journey to build **great** things
-
--   🌱 I’m currently learning **everything** 🤓
-
--   🤝 I’m looking for help with **finding projects to contribute to!**
-
--   💬 Ask me about **web development**
+- 🛠️ Skilled in designing and developing applications across the stack, with a focus on creating clean, maintainable code  
+- 🌍 Open to working with diverse technologies — from frontend frameworks and backend services to AI-powered systems and automation tools  
+- 🌱 Continuously learning — currently diving deeper into **cloud infrastructure**, **software architecture**, and **AI integration**  
+- 🤝 I value collaboration, shared learning, and building solutions that make a real impact  
+- 💬 Always up for discussions on **software design, tech trends, and creative problem-solving**
 
 </details>
+</div>
 
 ## 🌐 Socials:
 
